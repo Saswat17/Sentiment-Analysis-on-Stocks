@@ -18,7 +18,7 @@ The aim of the project is to predict the right stock to buy using "Sentiment Ana
 
 1. Stock_article_data_collection.ipynb
 ### Output files :- azn_urls_20220105.txt , Sentiment Updated.csv
-Use azn_urls_20220105.txt in 2nd Script.
+Use azn_body_text_202230.txt in 2nd Script.
 
 2. TextPreprocessing_and_Classification.ipynb
 Use Sentiment Updated.csv in 3rd Script.
