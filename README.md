@@ -1,4 +1,4 @@
-# Right Stock Selection
+# Sentiment Analysis on Stocks
 Predict which stock is right to buy
 
 ## Project description 
